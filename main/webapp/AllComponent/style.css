@@ -1,0 +1,15 @@
+.bg-custom{
+	background-color: maroon;
+}
+
+.navbar .nav-item .nav-link:hover{
+	background-color: white;
+	border: 1px solid black;
+	border-radius:10px;
+	color:black;
+	font-weight: 500;
+} 
+.g_color{
+	color:green;
+	
+}
